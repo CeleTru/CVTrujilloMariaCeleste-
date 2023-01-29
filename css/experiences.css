@@ -37,6 +37,7 @@
   
   .experience-date {
     font-size: 25px;
+    font-weight: bold;
     text-transform: uppercase;
     color: var(--secundary-color);
   }
